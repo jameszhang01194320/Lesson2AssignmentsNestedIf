@@ -1,5 +1,3 @@
-2.QuickDecisions
-
 # 2. Quick Decisions: The Event Planner 🎉
 # Objective:
 # To practice the use of shorthand if statements in determining event-related decisions.
