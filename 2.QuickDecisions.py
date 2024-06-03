@@ -1,6 +1,5 @@
 # 2. Quick Decisions: The Event Planner 🎉
-# Objective:
-# To practice the use of shorthand if statements in determining event-related decisions.
+
 # Task 1: Code Correction
 # Buggy Code:
 # <="" code="" style="margin: 0px 0px 30px; padding: 0px; box-sizing: border-box; position: relative; display: block; min-height: 40px; width: 736.679px;">
